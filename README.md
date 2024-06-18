@@ -1,7 +1,7 @@
 BANK LOAN PERFORMANCE ANALYSIS
 
  I. AIM: 
-	TO ANALYZE THE PERORMANCE OF LOANS GRANTED BY THE BANK.
+	To Analyze The Performance Of Loans Granted By The Bank.
  
  II. DATA AVAILABLE:
 	Loan ID, Purpose, Address State, Employee Length, Employee Title, Grade, Sub Grade, profiles, Home Ownership, Issue Date, Last Credit Pull Date, Last Payment Date, 		Loan Status, Next Payment Date, Purpose, Term, Verification Status, Annual Income, DTI (Debt-to-Income Ratio), Instalment, Interest Rate, Loan Amount
