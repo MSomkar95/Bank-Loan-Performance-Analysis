@@ -14,8 +14,8 @@ BANK LOAN PERFORMANCE ANALYSIS
   	4.State-wise report
    	5.Overall report
     	6.Report based on home ownership
-     
- Business Impact:
+
+ IV. BUSINESS IMPACT: 
  	1. The profound impact the bad loans had on the business, which gorunds majority of them were offered Eg. did the majority of the recipients own a house, lived in a 
 	rented house etc.
  	2. Which states the majority of customer base is located and what is the net contribution to company's business
