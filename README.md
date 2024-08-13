@@ -19,5 +19,5 @@ Loan ID, Purpose, Address State, Employee Length, Employee Title, Grade, Sub Gra
  - Report based on home ownership
 
 V. Business Impact:
- - The analysis revealed significant negative impacts from bad loans(unproductive) , particularly in relation to borrowers' home ownership status (e.g., owning versus renting).
+ - The analysis revealed significant negative impacts from bad loans (unproductive) , particularly in relation to borrowers' home ownership status (e.g., owning versus renting).
  - It also identified the states where the majority of the customer base resides and assessed their net contribution to the bank’s overall business.
